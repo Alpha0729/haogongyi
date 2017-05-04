@@ -1,0 +1,58 @@
+.page {
+  height: 1.8em;
+  line-height: 1.8em;
+  padding: 6px 12px;
+}
+.page .page-list ul li {
+  color: #333;
+  margin-right: 8px;
+  position: relative;
+}
+.page .page-list ul li span {
+  color: #fe4134;
+}
+.page .page-list ul li a {
+  display: inline-block;
+  width: 11px;
+  height: 8px;
+}
+.page .page-list ul li .l-5 {
+  background: url("../img/page-icon01.jpg") no-repeat;
+}
+.page .page-list ul li .l-1 {
+  background: url("../img/page-icon02.jpg") no-repeat;
+  margin-left: 6px;
+}
+.page .page-list ul li .r-1 {
+  background: url("../img/page-icon03.jpg") no-repeat;
+}
+.page .page-list ul li .r-5 {
+  background: url("../img/page-icon04.jpg") no-repeat;
+}
+.page .page-list ul li .pg-text {
+  width: 22px;
+  height: 16px;
+  padding-right: 15px;
+  border-radius: 4px;
+  border: 1px solid #d9d9d9;
+}
+.page .page-list ul li .t-btn {
+  width: 15px;
+  height: 9px;
+  border: none;
+  position: absolute;
+  top: 2px;
+  right: 28px;
+  background: url("../img/page-t-btn.jpg") no-repeat;
+  cursor: pointer;
+}
+.page .page-list ul li .b-btn {
+  width: 15px;
+  height: 9px;
+  border: none;
+  position: absolute;
+  bottom: 1px;
+  right: 28px;
+  background: url("../img/page-b-btn.jpg") no-repeat;
+  cursor: pointer;
+}

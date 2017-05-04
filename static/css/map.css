@@ -1,0 +1,37 @@
+.institution-box {
+  width: 1200px;
+  height: 655px;
+  position: relative;
+  overflow: hidden;
+  background: url("../img/map-bg.png") no-repeat;
+}
+#map {
+  width: 1200px;
+  height: 655px;
+  background: url("../img/map-bg.png") no-repeat;
+}
+#map-content {
+  display: none;
+  width: 300px;
+  height: 265px;
+  position: absolute;
+  top: 170px;
+  right: 70px;
+  background: url("../img/map-content-bg.png") no-repeat;
+}
+#map-content .map-provinces {
+  font-size: 30px;
+  color: #eb3f43;
+  position: absolute;
+  width: 230px;
+  top: 110px;
+  text-align: center;
+}
+#map-content .map-center {
+  font-size: 12px;
+  color: #2b2b2b;
+  width: 230px;
+  text-align: center;
+  position: absolute;
+  top: 150px;
+}

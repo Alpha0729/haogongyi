@@ -1,0 +1,147 @@
+.pp-jigou {
+  margin-top: 24px;
+}
+.pp-jigou .pp-jigou-con {
+  border-top: 12px solid #e7e7e7;
+  padding: 17px 30px;
+}
+.pp-jigou .pp-jigou-con h3 {
+  font-size: 16px;
+  color: #2c2c2c;
+  padding-left: 50px;
+  background: url("../img/ppcjIcon.png") no-repeat;
+  background-position: left center;
+  height: 36px;
+  line-height: 36px;
+  font-weight: bold;
+}
+.pp-jigou .pp-jigouList {
+  border-top: 10px solid #e7e7e7;
+}
+.pp-jigou .pp-jigouList .jgListCon {
+  height: 230px;
+}
+.pp-jigou .pp-jigouList .jgListCon .jgList-l {
+  position: relative;
+  width: 164px;
+  height: 230px;
+}
+.pp-jigou .pp-jigouList .jgListCon .jgList-l .jgList-nav {
+  background: url("../img/power-navBg.png") no-repeat;
+  width: 164px;
+  height: 240px;
+  position: absolute;
+  top: -9px;
+  left: 0;
+}
+.pp-jigou .pp-jigouList .jgListCon .jgList-l .jgList-nav ul li {
+  line-height: 46px;
+}
+.pp-jigou .pp-jigouList .jgListCon .jgList-l .jgList-nav ul li a {
+  display: block;
+  padding-left: 80px;
+  font-size: 16px;
+  color: #2c2c2c;
+}
+.pp-jigou .pp-jigouList .jgListCon .jgList-l .jgList-nav ul .on {
+  background: url("../img/nav2Bg02.png") no-repeat;
+}
+.pp-jigou .pp-jigouList .jgListCon .jgList-l .jgList-nav ul .on a {
+  color: #fff;
+}
+.pp-jigou .pp-jigouList .jgListCon .jgList-l .jgList-nav ul li:hover {
+  background: url("../img/nav2Bg02.png") no-repeat;
+}
+.pp-jigou .pp-jigouList .jgListCon .jgList-l .jgList-nav ul li:hover a {
+  color: #fff;
+}
+.pp-jigou .pp-jigouList .jgListCon .jgList-r {
+  width: 980px;
+  height: 230px;
+  overflow-x: hidden;
+  margin-left: 20px;
+}
+.pp-jigou .pp-jigouList .jgListCon .jgList-r .none {
+  display: none;
+}
+.pp-jigou .pp-jigouList .jgListCon .jgList-r .jgList-l-pp ul li {
+  margin: 30px 18px;
+}
+.pp-jigou .pp-jigouList .jgListCon .jgList-r .jgList-l-pp ul li a {
+  display: inline-block;
+  height: 50px;
+  line-height: 50px;
+}
+.pp-jigou .pp-date {
+  background: url("../img/ty-conBg.png") no-repeat;
+  width: 1200px;
+  height: 159px;
+}
+.pp-jigou .pp-date .pp-date-con .date-l {
+  width: 600px;
+}
+.pp-jigou .pp-date .pp-date-con .date-l .sj-date-con .dt-sz {
+  margin: 20px 26px 0 0;
+}
+.pp-jigou .pp-date .pp-date-con .date-l .sj-date-con .dt-sz h3 {
+  font-size: 16px;
+  color: #fff;
+}
+.pp-jigou .pp-date .pp-date-con .date-l .sj-date-con .dt-sz span {
+  font-size: 30px;
+  color: #fff;
+  font-weight: bold;
+}
+.pp-jigou .pp-date .pp-date-con .date-l .sj-date-con .dt-txt {
+  margin: 50px 0 0 70px;
+}
+.pp-jigou .pp-date .pp-date-con .date-l .sj-date-con .dt-txt h3 {
+  font-size: 14px;
+  color: #3d3d3d;
+}
+.pp-jigou .pp-date .pp-date-con .date-l .sj-date-con .dt-txt p {
+  font-size: 12px;
+  color: #3d3d3d;
+  line-height: 20px;
+}
+.pp-jigou .pp-date .pp-date-con .date-r {
+  width: 600px;
+}
+.pp-jigou .pp-date .pp-date-con .date-r .sj-date-con .dt-sz {
+  margin: 20px 0 0 26px;
+}
+.pp-jigou .pp-date .pp-date-con .date-r .sj-date-con .dt-sz h3 {
+  font-size: 16px;
+  color: #fff;
+}
+.pp-jigou .pp-date .pp-date-con .date-r .sj-date-con .dt-sz span {
+  font-size: 30px;
+  color: #fff;
+  font-weight: bold;
+}
+.pp-jigou .pp-date .pp-date-con .date-r .sj-date-con .dt-txt {
+  margin: 50px 100px 0 0;
+}
+.pp-jigou .pp-date .pp-date-con .date-r .sj-date-con .dt-txt h3 {
+  font-size: 16px;
+  color: #333;
+}
+.pp-jigou .pp-date .pp-date-con .date-r .sj-date-con .dt-txt span {
+  font-size: 30px;
+  color: #e94043;
+}
+.gm-cg-con .gm-cg-tit {
+  border-top: 1px solid #e7e7e7;
+  border-bottom: 1px solid #e7e7e7;
+  padding: 17px 30px;
+}
+.gm-cg-con .gm-cg-tit h3 {
+  font-size: 16px;
+  color: #2c2c2c;
+  padding-left: 50px;
+  background: url("../img/chl.png") no-repeat;
+  background-position: left center;
+  height: 36px;
+  line-height: 36px;
+  font-weight: bold;
+}

@@ -1,0 +1,149 @@
+.gy-product {
+  margin-top: 24px;
+  border-top: 12px solid #e7e7e7;
+}
+.gy-product .gy-product-con .gy-pro-conl {
+  width: 810px;
+  border-right: 1px solid #e7e7e7;
+}
+.gy-product .gy-product-con .gy-pro-conl .pro-l-con {
+  padding: 20px 30px 0;
+}
+.gy-product .gy-product-con .gy-pro-conl .pro-l-con .gy-cpTit {
+  padding: 17px 30px;
+  border-bottom: 1px solid #e7e7e7;
+}
+.gy-product .gy-product-con .gy-pro-conl .pro-l-con .gy-cpTit h3 {
+  font-size: 16px;
+  color: #2c2c2c;
+  padding-left: 50px;
+  background: url("../img/heart.png") no-repeat;
+  background-position: left center;
+  height: 34px;
+  line-height: 34px;
+  float: left;
+}
+.gy-product .gy-product-con .gy-pro-conl .pro-l-con .gy-cpTit a {
+  float: right;
+  background: url("../img/dload.png") no-repeat;
+  width: 118px;
+  height: 38px;
+  text-align: center;
+  color: #fff;
+  padding-top: 2px;
+}
+.gy-product .gy-product-con .gy-pro-conl .pro-l-con .gy-deta-txt {
+  padding-top: 50px;
+}
+.gy-product .gy-product-con .gy-pro-conl .pro-l-con .gy-deta-txt h3 {
+  font-size: 18px;
+  color: #2c2c2c;
+  text-align: center;
+}
+.gy-product .gy-product-con .gy-pro-conl .pro-l-con .gy-deta-txt p {
+  font-size: 14px;
+  color: #2c2c2c;
+  line-height: 28px;
+  margin-top: 30px;
+  padding-right: 50px;
+}
+.gy-product .gy-product-con .gy-pro-conl .pro-l-con .share-con {
+  margin: 20px 0 80px 0;
+}
+.gy-product .gy-product-con .gy-pro-conl .ppcl-js {
+  height: 183px;
+  border-top: 1px solid #e7e7e7;
+}
+.gy-product .gy-product-con .gy-pro-conl .ppcl-js .ppcl-js-con .ppjs-tit {
+  height: 183px;
+  width: 165px;
+  background: #eb3f43;
+  text-align: center;
+  border-right: 1px solid #e7e7e7;
+}
+.gy-product .gy-product-con .gy-pro-conl .ppcl-js .ppcl-js-con .ppjs-tit h3 {
+  font-size: 16px;
+  color: #fff;
+  width: 80%;
+  margin: 0 auto;
+  height: 50px;
+  line-height: 50px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.gy-product .gy-product-con .gy-pro-conl .ppcl-js .ppcl-js-con .ppjs-tit .ppjs-tit-logo {
+  width: 165px;
+  height: 133px;
+  background: #fff;
+}
+.gy-product .gy-product-con .gy-pro-conl .ppcl-js .ppcl-js-con .ppjs-tit .ppjs-tit-logo img {
+  margin-top: 20px;
+}
+.gy-product .gy-product-con .gy-pro-conl .ppcl-js .ppcl-js-con .ppjs-txt {
+  padding: 32px;
+  width: 580px;
+}
+.gy-product .gy-product-con .gy-pro-conl .ppcl-js .ppcl-js-con .ppjs-txt h3 {
+  font-size: 16px;
+  color: #2c2c2c;
+}
+.gy-product .gy-product-con .gy-pro-conl .ppcl-js .ppcl-js-con .ppjs-txt p {
+  font-size: 14px;
+  color: #2c2c2c;
+  line-height: 24px;
+}
+.gy-product .gy-product-con .gy-pro-conr {
+  width: 328px;
+}
+.gy-product .gy-product-con .gy-pro-conr .pro-r-con .mtTit {
+  padding: 17px 0 17px 30px;
+  border-bottom: 1px solid #e7e7e7;
+}
+.gy-product .gy-product-con .gy-pro-conr .pro-r-con .mtTit h3 {
+  font-size: 16px;
+  color: #2c2c2c;
+  padding-left: 50px;
+  background: url("../img/bdIcon.png") no-repeat;
+  background-position: left center;
+  height: 39px;
+  line-height: 39px;
+}
+.gy-product .gy-product-con .gy-pro-conr .pro-r-con .mtList {
+  padding: 30px;
+  border-bottom: 1px solid #e7e7e7;
+}
+.gy-product .gy-product-con .gy-pro-conr .pro-r-con .mtList ul li {
+  line-height: 24px;
+  width: 236px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.gy-product .gy-product-con .gy-pro-conr .pro-r-con .mtList ul li a {
+  font-size: 12px;
+  color: #292929;
+}
+.gy-product .gy-product-con .gy-pro-conr .pro-r-con .xg-cp-tit {
+  padding: 20px 0 20px 30px;
+  border-bottom: 1px solid #e7e7e7;
+}
+.gy-product .gy-product-con .gy-pro-conr .pro-r-con .xg-cp-tit h3 {
+  font-size: 16px;
+  color: #2c2c2c;
+  padding-left: 50px;
+  background: url("../img/zgcpIcon.png") no-repeat;
+  background-position: left center;
+  height: 24px;
+  line-height: 24px;
+}
+.gy-product .gy-product-con .gy-pro-conr .pro-r-con .xg-cp-list ul .border-r {
+  border-right: 1px solid #e7e7e7;
+}
+.gy-product .gy-product-con .gy-pro-conr .pro-r-con .xg-cp-list ul li {
+  border-bottom: 1px solid #e7e7e7;
+}
+.gy-product .gy-product-con .gy-pro-conr .pro-r-con .xg-cp-list ul li a {
+  display: block;
+  padding: 40px 14px;
+}

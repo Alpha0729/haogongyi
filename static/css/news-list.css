@@ -1,0 +1,68 @@
+.NewList .NewList-con .NewList-l {
+  width: 75%;
+  border-right: 1px solid #e7e7e7;
+}
+.NewList .NewList-con .NewList-l .NewList-l-tit {
+  padding: 17px 30px;
+  border-bottom: 1px solid #e7e7e7;
+}
+.NewList .NewList-con .NewList-l .NewList-l-tit h3 {
+  font-size: 16px;
+  color: #2c2c2c;
+  padding-left: 50px;
+  background: url("../img/heart.png") no-repeat;
+  background-position: left center;
+  height: 36px;
+  line-height: 36px;
+  font-weight: bold;
+}
+.NewList .NewList-con .NewList-l .NewList-l-txt .NewList-lCon {
+  padding: 34px;
+  border-bottom: 1px solid #e7e7e7;
+}
+.NewList .NewList-con .NewList-l .NewList-l-txt .NewList-lCon .Nl-txt-wz {
+  margin-left: 20px;
+  width: 80%;
+}
+.NewList .NewList-con .NewList-l .NewList-l-txt .NewList-lCon .Nl-txt-wz h4 {
+  font-size: 14px;
+  color: #2b2b2b;
+}
+.NewList .NewList-con .NewList-l .NewList-l-txt .NewList-lCon .Nl-txt-wz p {
+  font-size: 12px;
+  color: #2b2b2b;
+  line-height: 2em;
+  margin-top: 6px;
+}
+.NewList .NewList-con .NewList-r {
+  width: 24.9%;
+}
+.NewList .NewList-con .NewList-r .NewList-r-tit {
+  border-bottom: 1px solid #e7e7e7;
+  padding: 17px 30px;
+}
+.NewList .NewList-con .NewList-r .NewList-r-tit h3 {
+  font-size: 16px;
+  color: #2c2c2c;
+  padding-left: 50px;
+  background: url("../img/newsIcon.png") no-repeat;
+  background-position: left center;
+  height: 36px;
+  line-height: 36px;
+  font-weight: bold;
+}
+.NewList .NewList-con .NewList-r .New-l01 {
+  padding: 30px;
+  border-bottom: 1px solid #e7e7e7;
+}
+.NewList .NewList-con .NewList-r .New-l01 ul li {
+  line-height: 2.4em;
+}
+.NewList .NewList-con .NewList-r .New-l01 ul li a {
+  display: block;
+  font-size: 12px;
+  color: #292929;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}

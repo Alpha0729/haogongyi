@@ -1,0 +1,61 @@
+.about {
+  margin: 0 auto;
+  background: #e7e7e7;
+  padding-top: 30px;
+}
+.about .about-con {
+  width: 1200px;
+  margin: 0 auto;
+}
+.about .about-con .about-con-l {
+  width: 164px;
+  margin-top: -5px;
+}
+.about .about-con .about-con-l .about-con-nav {
+  background: url("../img/nav2Bg01.png") no-repeat;
+  width: 164px;
+  height: 377px;
+}
+.about .about-con .about-con-l .about-con-nav ul li {
+  line-height: 46px;
+}
+.about .about-con .about-con-l .about-con-nav ul li a {
+  display: block;
+  padding-left: 40px;
+  font-size: 16px;
+  color: #303030;
+  font-weight: bold;
+}
+.about .about-con .about-con-l .about-con-nav ul .add-cl {
+  background: url("../img/nav2Bg02.png") no-repeat;
+}
+.about .about-con .about-con-l .about-con-nav ul .add-cl a {
+  color: #fff;
+}
+.about .about-con .about-con-l .about-con-nav ul li:hover {
+  background: url("../img/nav2Bg02.png") no-repeat;
+}
+.about .about-con .about-con-l .about-con-nav ul li:hover a {
+  color: #fff;
+}
+.about .about-con .about-con-r {
+  width: 1036px;
+  background: #fff;
+}
+.about .about-con .about-con-r h2 {
+  text-align: center;
+  margin-top: 70px;
+}
+.about .about-con .about-con-r h2 img {
+  width: 20%;
+}
+.about .about-con .about-con-r .about-jjTxt {
+  margin-bottom: 190px;
+}
+.about .about-con .about-con-r .about-jjTxt .jj-txt {
+  font-size: 12px;
+  color: #414141;
+  line-height: 24px;
+  width: 80%;
+  margin: 34px auto 0;
+}

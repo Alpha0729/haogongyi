@@ -1,0 +1,162 @@
+.partner {
+  margin-top: 24px;
+  border-top: 12px solid #e7e7e7;
+}
+.partner .partner-con .par-ppTit {
+  padding: 17px 30px;
+  border-bottom: 1px solid #e7e7e7;
+}
+.partner .partner-con .par-ppTit h3 {
+  font-size: 16px;
+  color: #2c2c2c;
+  padding-left: 50px;
+  background: url("../img/ppcjIcon.png") no-repeat;
+  background-position: left center;
+  height: 36px;
+  line-height: 36px;
+  float: left;
+  font-weight: bold;
+}
+.partner .partner-con .par-ppTit a {
+  float: left;
+  width: 97px;
+  height: 25px;
+  line-height: 25px;
+  text-align: center;
+  color: #fff;
+  background: #ec3f43;
+  border-radius: 5px;
+  margin: 4px 0 0 20px;
+}
+.partner .partner-con .par-ppTxt .par-ppTxt-con {
+  padding: 30px 0;
+}
+.partner .partner-con .par-ppTxt .par-ppTxt-con .par-pp-l {
+  width: 944px;
+}
+.partner .partner-con .par-ppTxt .par-ppTxt-con .par-pp-l p {
+  padding-left: 30px;
+  font-size: 12px;
+  color: #2c2c2c;
+  line-height: 24px;
+}
+.partner .partner-con .par-ppTxt .par-ppTxt-con .par-pp-r {
+  width: 256px;
+  text-align: center;
+}
+.partner .partner-con .par-ppTxt .par-ppTxt-con .par-pp-r img {
+  margin-top: 20px;
+}
+.partner .partner-con .par-pp-list {
+  height: 110px;
+  border-top: 1px solid #e7e7e7;
+  border-bottom: 1px solid #e7e7e7;
+}
+.partner .partner-con .par-pp-list .par-lb {
+  position: relative;
+}
+.partner .partner-con .par-pp-list .par-lb .par-bl-an .par-next {
+  display: inline-block;
+  width: 48px;
+  height: 110px;
+  line-height: 110px;
+  text-align: center;
+  background: #eb3f43;
+  color: #fff;
+  float: left;
+}
+.partner .partner-con .par-pp-list .par-lb .par-bl-an .par-prev {
+  display: inline-block;
+  width: 48px;
+  height: 110px;
+  line-height: 110px;
+  text-align: center;
+  background: #eb3f43;
+  color: #fff;
+  float: right;
+}
+.partner .partner-con .par-pp-list .par-lb .par-lb-con {
+  width: 1104px;
+  position: absolute;
+  top: 0;
+  left: 48px;
+  overflow: hidden;
+}
+.partner .partner-con .par-pp-list .par-lb .par-lb-con .picList {
+  height: 110px;
+}
+.partner .partner-con .par-pp-list .par-lb .par-lb-con .picList li {
+  padding: 10px 12px;
+  text-align: center;
+  display: block;
+}
+.partner .partner-con .par-pp-list .par-lb .par-lb-con .picList li a {
+  height: 90px;
+  line-height: 90px;
+  display: block;
+}
+.partner .partner-con .par-jd .par-jd-con .par-jd-tit {
+  padding: 17px 30px;
+}
+.partner .partner-con .par-jd .par-jd-con .par-jd-tit h3 {
+  font-size: 16px;
+  color: #2c2c2c;
+  padding-left: 50px;
+  background: url("../img/chl.png") no-repeat;
+  background-position: left center;
+  height: 36px;
+  line-height: 36px;
+  float: left;
+  font-weight: bold;
+}
+.partner .partner-con .par-jd .par-jd-con .par-jd-tit a {
+  float: left;
+  width: 97px;
+  height: 25px;
+  line-height: 25px;
+  text-align: center;
+  color: #fff;
+  background: #ec3f43;
+  border-radius: 5px;
+  margin: 4px 0 0 20px;
+}
+.partner .partner-con .par-xmsf .par-xmsf-con .par-xmsf-tit {
+  padding: 17px 30px;
+  border-bottom: 1px solid #e7e7e7;
+}
+.partner .partner-con .par-xmsf .par-xmsf-con .par-xmsf-tit h3 {
+  font-size: 16px;
+  color: #2c2c2c;
+  padding-left: 50px;
+  background: url("../img/ygIcon.png") no-repeat;
+  background-position: left center;
+  height: 36px;
+  line-height: 36px;
+  float: left;
+  font-weight: bold;
+}
+.partner .partner-con .par-xmsf .par-xmsf-con .par-xmsf-tit a {
+  float: left;
+  width: 97px;
+  height: 25px;
+  line-height: 25px;
+  text-align: center;
+  color: #fff;
+  background: #ec3f43;
+  border-radius: 5px;
+  margin: 4px 0 0 20px;
+}
+.partner .partner-con .par-xmsf .par-xmsf-con .par-xmsf-list {
+  padding: 10px 30px;
+}
+.partner .partner-con .par-xmsf .par-xmsf-con .par-xmsf-list ul .cx-add img {
+  margin: 30px 0;
+}
+.partner .partner-con .par-xmsf .par-xmsf-con .par-xmsf-list ul li {
+  margin: 10px 12px;
+}
+.partner .partner-con .par-xmsf .par-xmsf-con .par-xmsf-list ul li a {
+  display: block;
+  height: 80px;
+  line-height: 80px;
+}

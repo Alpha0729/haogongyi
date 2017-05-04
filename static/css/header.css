@@ -1,0 +1,84 @@
+.header {
+  border-bottom: 3px solid #d93033;
+}
+.header .header-con {
+  width: 1200px;
+  height: 137px;
+  background: #fff;
+  margin: 0 auto;
+}
+.header .header-con .header-logo {
+  padding: 35px 0 0 0;
+}
+.header .header-con .header-nav .login {
+  padding: 26px 0 21px 0;
+}
+.header .header-con .header-nav .login .lg-input input {
+  margin-left: 10px;
+}
+.header .header-con .header-nav .login .lg-input .lg-txt {
+  width: 125px;
+  height: 26px;
+  line-height: 26px;
+  text-indent: 6px;
+  border: 1px solid #aaa;
+  float: left;
+}
+.header .header-con .header-nav .login .lg-input .lg-btn {
+  width: 80px;
+  height: 2em;
+  line-height: 2em;
+  text-align: center;
+  color: #fff;
+  background: #292929;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+.header .header-con .header-nav .login .zhuce {
+  height: 28px;
+  line-height: 28px;
+  margin-left: 20px;
+}
+.header .header-con .header-nav .login .zhuce ul li {
+  margin: 0 2px;
+}
+.header .header-con .header-nav .login .zhuce ul li a {
+  font-size: 12px;
+  color: #1b1b1b;
+}
+.header .header-con .header-nav .nav-list ul .l-c01 {
+  background: url("../img/navBg01.png") no-repeat;
+  width: 142px;
+  height: 65px;
+  line-height: 65px;
+  text-align: center;
+}
+.header .header-con .header-nav .nav-list ul .l-c02 {
+  background: url("../img/navBg02.png") no-repeat;
+  width: 142px;
+  height: 65px;
+  line-height: 65px;
+  text-align: center;
+}
+.header .header-con .header-nav .nav-list ul .l-c03 {
+  background: url("../img/navBg03.png") no-repeat;
+  width: 231px;
+  height: 65px;
+  line-height: 65px;
+  text-indent: 50px;
+}
+.header .header-con .header-nav .nav-list ul li {
+  margin-left: -36px;
+}
+.header .header-con .header-nav .nav-list ul li a {
+  display: block;
+  font-size: 16px;
+  color: #fff;
+}
+.header .header-con .header-nav .nav-list ul .onBg {
+  background: url("../img/nav-h2.png") no-repeat;
+}
+.header .header-con .header-nav .nav-list ul li:hover {
+  background: url("../img/nav-h2.png") no-repeat;
+}
